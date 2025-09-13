@@ -1,0 +1,101 @@
+Customer ID,fullName,e-mail,SignUpDate,vip
+C001,Norma Fisher,tammy76@example.com,"August 14, 2025",
+C002,Steven Robinson,juancampos@example.net,13/06/2025,
+C003,MS. MICHELE GUZMAN,kyleblair@example.net,23/12/2024,Y
+C004,Heather Stewart,tammywoods@example.net,"November 28, 2024",N
+C005,KIMBERLY SMITH,ypage@example.net,"April 10, 2025",Yes
+C006,SAMANTHA COOK,jane13@example.net,2024-11-14,
+C007,BRENDA DANIELS,millerluke@example.net,25/08/2025,
+C008,ERIC CARTER JR., lisa83@example.net ,"March 13, 2025",
+C009,  Brandon Yates  , barbara42@example.org ,"June 21, 2025",no
+C010,William Green,daviskatherine@example.org,2025-07-28,
+C011,  STEPHANIE LEBLANC  ,hmassey@example.com,2025-03-03,
+C012,DANIEL SHELTON, criley@example.com ,23/04/2025,Yes
+C013,Sydney Leon MD,tuckercrystal@example.org,"November 21, 2024",
+C014,Autumn Robinson,marvincabrera@example.org,"June 07, 2025",N
+C015,Colleen Montoya,johnsoncynthia@example.net,"June 24, 2025",
+C016,  Brandon Bass  , johnsonandrew@example.org ,"May 14, 2025",Yes
+C017,NICHOLAS BROWN, stephenschristine@example.com ,,no
+C018,Eric Graham,gordonbenjamin@example.org,2025-05-07,Yes
+C019,  David Strong  , kmassey@example.org ,2025-05-07,Yes
+ C020 ,Randall Kramer,meganpeterson@example.com,2024-10-06,yes
+C021,  MARY SMITH  ,gmccullough@example.com,"April 19, 2025",Y
+C022,Matthew Hernandez,ellischristian@example.net,2024/09/10,No
+C023,David Benton,chelsea59@example.net,03/07/2025,no
+C024,Eric Goodman,smithjames@example.com,2024/10/22,yes
+C025,Jerome Page,sjohnson@example.net,"January 25, 2025",yes
+C026,AMBER GRIFFIN, jacqueline78@example.com ,2025-07-23,Y
+C027,APRIL WILLIAMS,larry70@example.com,"November 01, 2024",yes
+C028,Miss Angela Swanson DVM,aherring@example.com,2024/08/26,yes
+C029,  PAUL BAIRD  ,leecharlene@example.org,10/07/2025,No
+C030,William Garcia,bburton@example.com,2025/07/25,no
+C031,  Ashley Scott  ,darin24@example.org,"September 09, 2024",yes
+C032,David Edwards,sheena09@example.net,2025-02-21,N
+C033,JUDY GRAHAM,jaredmatthews@example.org,2024/10/14,No
+C034,George Richardson, morganchristine@example.org ,2024-12-01,N
+C035,  KEVIN WARD  ,kellywoods@example.org,2025-08-01,No
+C036,  Scott Chandler  ,richard54@example.com,2024-10-03,N
+C037,  KAREN ROGERS  ,david17@example.com,2024-09-07,no
+C038,Michael Moore, courtneybennett@example.net ,,Y
+C039,  CHRISTINA WALKER  ,zsmith@example.net,,
+C040,John Richards,rodneyrichardson@example.com,2025/03/27,yes
+C041,COREY WILSON,leachshannon@example.net,06/11/2024,No
+C042,  David Davidson DVM  ,cindygarcia@example.com,2025-01-10,Yes
+C043,Brittany Hinton,zhernandez@example.net,30/04/2025,Y
+C044,Kathleen Stark,martha73@example.net,2025-04-05,Y
+C045,  Gerald Estes  ,lisa08@example.org,2025/07/11,Y
+C046,Brittney Gray,jennifer71@example.org,2025/03/02,Yes
+C047,Andrea Anderson,alexis75@example.org,2025/06/14,no
+ C048 ,  JULIA WATSON  ,gsantana@example.org,2025-03-23,N
+C049,Renee Chang,burgessrebecca@example.org,09/12/2024,N
+C050,Jennifer Kaufman, olawson@example.org ,22/04/2025,Y
+C051,  Christopher Hunter  ,marvin74@example.com,03/06/2025,Yes
+C052,James Martin,johnblair@example.com,14/09/2024,Yes
+C053,  Jason Vasquez  ,nunezedward@example.com,2025/01/22,No
+C054,Jasmine Williams,bosborne@example.org,"March 31, 2025",no
+C055,  Fred Graves  ,james71@example.org,05/04/2025,Yes
+C056,Mark Morgan, montesjennifer@example.com ,09/06/2025,no
+C057,Thomas Lloyd,stonekristen@example.org,2024/09/07,Yes
+C058,  Jacob Lee  , kristine10@example.org ,"February 18, 2025",Yes
+C059,Theresa Estrada,jerryfrank@example.net,2025/06/06,Y
+C060,Jennifer Torres,thomaspatricia@example.com,2025-07-28,yes
+C061,JENNIFER GARCIA,jessicajohnson@example.com,2025/01/29,no
+C062,Jonathan Shields,jennifer15@example.org,2024-10-08,yes
+C063,  HALEY THOMPSON  ,lorijones@example.org,"November 09, 2024",no
+C064,MICHAEL MAYS, adkinskelly@example.net ,"September 03, 2024",yes
+C065,SHANNON LOPEZ,woodsjasmine@example.com,2024-10-11,yes
+C066,  Heidi Kennedy  ,kenneth85@example.org,2025/03/30,Yes
+C067,JOSEPH PARKER, ihurst@example.org ,"December 18, 2024",Yes
+C068,PAUL CARTER,ialvarado@example.net,2024-09-01,Yes
+C069,Benjamin Fisher, jyang@example.net ,"January 26, 2025",no
+C070,  Angela Wallace  ,dana80@example.com,2025-01-21,
+C071,NICHOLAS FLORES,nathanfarley@example.org,07/08/2025,N
+C072,Destiny Grant, lauragriffin@example.com ,"October 31, 2024",Yes
+C073,  Christopher Chung  , sharon25@example.com ,2025/04/13,
+C074,Paul Phillips,amontgomery@example.org,2024-12-12,N
+C075,LORI GARDNER,rogerpotter@example.org,2025/04/30,yes
+C076,Crystal Gill,crystal01@example.com,"July 14, 2025",Yes
+C077,  David Fox  ,vwallace@example.com,01/01/2025,no
+ C078 ,  MEGAN GONZALEZ  ,johnsonlaura@example.com,2025-03-08,yes
+C079,SCOTT MACDONALD,carloscallahan@example.com,03/03/2025,N
+C080,  Lori Schmidt  ,isosa@example.com,"May 23, 2025",Y
+C081,Diana Ramos,ericterry@example.com,18/01/2025,
+C082,  Justin Evans  ,nnewton@example.com,19/02/2025,no
+C083,  KATHERINE MULLEN  ,vevans@example.com,,no
+C084,  ALLISON RUIZ  ,mathistiffany@example.net,2025/07/08,yes
+C085,NATALIE CALDWELL,warddarren@example.org,"August 25, 2025",yes
+C086,Melissa Acosta,donaldberry@example.org,"October 02, 2024",N
+C087,Gary Jackson,rwong@example.com,"October 18, 2024",Yes
+C088,Brittany Stewart,reneewallace@example.com,2025/01/28,N
+C089,Nicholas Pope MD,brendawilliams@example.com,2024-09-06,N
+C090,Shelby Cox,jesseevans@example.org,10/05/2025,Y
+C091,Diane Rich,robert08@example.net,2025/08/10,Yes
+C092,TARA VILLA,thenry@example.com,2024-11-11,Yes
+C093,ANDREW MARTIN,robertsadrian@example.org,2025/06/08,N
+C094,TRACY SANDERS,shawnmorgan@example.org,2025-04-03,Yes
+C095,  Francis Herrera  ,jonathan80@example.org,06/01/2025,Yes
+C096,Joseph Lopez,johndaniel@example.com,2024-12-17,N
+C097,Dawn Cooper,bradleyvilla@example.org,2024/08/28,Y
+C098,  JEFFREY STARK MD  ,hstevens@example.org,2024/09/23,No
+C099,Preston Gutierrez,scottjones@example.com,2025/03/17,yes
+C100,Jennifer Haley, tracyanderson@example.com ,2025/08/02,Yes

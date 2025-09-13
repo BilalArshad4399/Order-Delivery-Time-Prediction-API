@@ -1,0 +1,101 @@
+customer_id,full_name,email,signup_date,vip
+C001,Norma Fisher,tammy76@example.com,2025-08-14 00:00:00,
+C002,Steven Robinson,juancampos@example.net,,
+C003,Ms. Michele Guzman,kyleblair@example.net,,True
+C004,Heather Stewart,tammywoods@example.net,2024-11-28 00:00:00,False
+C005,Kimberly Smith,ypage@example.net,2025-04-10 00:00:00,True
+C006,Samantha Cook,jane13@example.net,,
+C007,Brenda Daniels,millerluke@example.net,,
+C008,Eric Carter Jr.,lisa83@example.net,2025-03-13 00:00:00,
+C009,Brandon Yates,barbara42@example.org,2025-06-21 00:00:00,False
+C010,William Green,daviskatherine@example.org,,
+C011,Stephanie Leblanc,hmassey@example.com,,
+C012,Daniel Shelton,criley@example.com,,True
+C013,Sydney Leon Md,tuckercrystal@example.org,2024-11-21 00:00:00,
+C014,Autumn Robinson,marvincabrera@example.org,2025-06-07 00:00:00,False
+C015,Colleen Montoya,johnsoncynthia@example.net,2025-06-24 00:00:00,
+C016,Brandon Bass,johnsonandrew@example.org,2025-05-14 00:00:00,True
+C017,Nicholas Brown,stephenschristine@example.com,,False
+C018,Eric Graham,gordonbenjamin@example.org,,True
+C019,David Strong,kmassey@example.org,,True
+C020,Randall Kramer,meganpeterson@example.com,,True
+C021,Mary Smith,gmccullough@example.com,2025-04-19 00:00:00,True
+C022,Matthew Hernandez,ellischristian@example.net,,False
+C023,David Benton,chelsea59@example.net,,False
+C024,Eric Goodman,smithjames@example.com,,True
+C025,Jerome Page,sjohnson@example.net,2025-01-25 00:00:00,True
+C026,Amber Griffin,jacqueline78@example.com,,True
+C027,April Williams,larry70@example.com,2024-11-01 00:00:00,True
+C028,Miss Angela Swanson Dvm,aherring@example.com,,True
+C029,Paul Baird,leecharlene@example.org,,False
+C030,William Garcia,bburton@example.com,,False
+C031,Ashley Scott,darin24@example.org,2024-09-09 00:00:00,True
+C032,David Edwards,sheena09@example.net,,False
+C033,Judy Graham,jaredmatthews@example.org,,False
+C034,George Richardson,morganchristine@example.org,,False
+C035,Kevin Ward,kellywoods@example.org,,False
+C036,Scott Chandler,richard54@example.com,,False
+C037,Karen Rogers,david17@example.com,,False
+C038,Michael Moore,courtneybennett@example.net,,True
+C039,Christina Walker,zsmith@example.net,,
+C040,John Richards,rodneyrichardson@example.com,,True
+C041,Corey Wilson,leachshannon@example.net,,False
+C042,David Davidson Dvm,cindygarcia@example.com,,True
+C043,Brittany Hinton,zhernandez@example.net,,True
+C044,Kathleen Stark,martha73@example.net,,True
+C045,Gerald Estes,lisa08@example.org,,True
+C046,Brittney Gray,jennifer71@example.org,,True
+C047,Andrea Anderson,alexis75@example.org,,False
+C048,Julia Watson,gsantana@example.org,,False
+C049,Renee Chang,burgessrebecca@example.org,,False
+C050,Jennifer Kaufman,olawson@example.org,,True
+C051,Christopher Hunter,marvin74@example.com,,True
+C052,James Martin,johnblair@example.com,,True
+C053,Jason Vasquez,nunezedward@example.com,,False
+C054,Jasmine Williams,bosborne@example.org,2025-03-31 00:00:00,False
+C055,Fred Graves,james71@example.org,,True
+C056,Mark Morgan,montesjennifer@example.com,,False
+C057,Thomas Lloyd,stonekristen@example.org,,True
+C058,Jacob Lee,kristine10@example.org,2025-02-18 00:00:00,True
+C059,Theresa Estrada,jerryfrank@example.net,,True
+C060,Jennifer Torres,thomaspatricia@example.com,,True
+C061,Jennifer Garcia,jessicajohnson@example.com,,False
+C062,Jonathan Shields,jennifer15@example.org,,True
+C063,Haley Thompson,lorijones@example.org,2024-11-09 00:00:00,False
+C064,Michael Mays,adkinskelly@example.net,2024-09-03 00:00:00,True
+C065,Shannon Lopez,woodsjasmine@example.com,,True
+C066,Heidi Kennedy,kenneth85@example.org,,True
+C067,Joseph Parker,ihurst@example.org,2024-12-18 00:00:00,True
+C068,Paul Carter,ialvarado@example.net,,True
+C069,Benjamin Fisher,jyang@example.net,2025-01-26 00:00:00,False
+C070,Angela Wallace,dana80@example.com,,
+C071,Nicholas Flores,nathanfarley@example.org,,False
+C072,Destiny Grant,lauragriffin@example.com,2024-10-31 00:00:00,True
+C073,Christopher Chung,sharon25@example.com,,
+C074,Paul Phillips,amontgomery@example.org,,False
+C075,Lori Gardner,rogerpotter@example.org,,True
+C076,Crystal Gill,crystal01@example.com,2025-07-14 00:00:00,True
+C077,David Fox,vwallace@example.com,,False
+C078,Megan Gonzalez,johnsonlaura@example.com,,True
+C079,Scott Macdonald,carloscallahan@example.com,,False
+C080,Lori Schmidt,isosa@example.com,2025-05-23 00:00:00,True
+C081,Diana Ramos,ericterry@example.com,,
+C082,Justin Evans,nnewton@example.com,,False
+C083,Katherine Mullen,vevans@example.com,,False
+C084,Allison Ruiz,mathistiffany@example.net,,True
+C085,Natalie Caldwell,warddarren@example.org,2025-08-25 00:00:00,True
+C086,Melissa Acosta,donaldberry@example.org,2024-10-02 00:00:00,False
+C087,Gary Jackson,rwong@example.com,2024-10-18 00:00:00,True
+C088,Brittany Stewart,reneewallace@example.com,,False
+C089,Nicholas Pope Md,brendawilliams@example.com,,False
+C090,Shelby Cox,jesseevans@example.org,,True
+C091,Diane Rich,robert08@example.net,,True
+C092,Tara Villa,thenry@example.com,,True
+C093,Andrew Martin,robertsadrian@example.org,,False
+C094,Tracy Sanders,shawnmorgan@example.org,,True
+C095,Francis Herrera,jonathan80@example.org,,True
+C096,Joseph Lopez,johndaniel@example.com,,False
+C097,Dawn Cooper,bradleyvilla@example.org,,True
+C098,Jeffrey Stark Md,hstevens@example.org,,False
+C099,Preston Gutierrez,scottjones@example.com,,True
+C100,Jennifer Haley,tracyanderson@example.com,,True
